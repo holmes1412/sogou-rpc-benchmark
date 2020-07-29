@@ -1,4 +1,4 @@
-# Sogou-RPC-Benchmark
+# Sogou RPC Benchmark
 
 SogouRPC是基于[C++ Workflow](https://github.com/sogou/workflow)异步调度引擎所开发的RPC系统，以下是SogouRPC的benchmark。
 
