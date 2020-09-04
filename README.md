@@ -1,6 +1,6 @@
 # Sogou RPC Benchmark
 
-SogouRPC是基于[C++ Workflow](https://github.com/sogou/workflow)异步调度引擎所开发的RPC系统，以下是SogouRPC的benchmark。
+SogouRPC是基于[C++ Workflow](https://github.com/sogou/workflow)异步调度引擎所开发的RPC系统，目前已在公司内部开源，也会在不久的将来在github开源与大家见面，欢迎持续关注！以下是SogouRPC的benchmark。
 
 * CPU 2-chip/8-core/32-processor Intel(R) Xeon(R) CPU E5-2630 v3 @2.40GHz
 * Memory all 128G
